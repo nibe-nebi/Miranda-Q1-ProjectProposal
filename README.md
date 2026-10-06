@@ -36,7 +36,8 @@ OUTPUTS:
   Top three energy-consuming appliances
   Difference between actual and estimated bill
 
-Logic Plan (Pseudocode)
+Logic Plan (Pseudocode) 
+
 START
   ASK user for electricity rate per kWh
   CREATE empty list called appliances
